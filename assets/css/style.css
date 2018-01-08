@@ -1,0 +1,29 @@
+h1, h4, p {
+    font-family: "Poiret One", Georgia, serif;
+}
+
+.header {
+    text-align: center;
+    padding: 5px;
+    border-bottom: 3px solid black;
+}
+
+#first-gif {
+    width: 100%;
+}
+
+.btn {
+    margin: 2px;
+    font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+    padding-bottom: 0;
+}
+
+.gifDiv {
+    display: inline-block;
+}
+
+.gif {
+    width: 200px;
+    border: 1px solid black;
+    margin: 2px;
+}
